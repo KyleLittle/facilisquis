@@ -1,0 +1,20 @@
+{
+  "name": "facilisquis",
+  "version": "1.0.0",
+  "description": "A simple node js implementation of uuid v4 for use with Braintree's JS based SDKs.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleLittle/facilisquis.git"
+  },
+  "keywords": [
+    "et",
+    "iure",
+    "quo"
+  ],
+  "author": "AprilErnser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyleLittle/facilisquis.git/issues"
+  }
+}
